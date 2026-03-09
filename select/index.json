@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "ボクノート ～for 20th Anniversary with Orchestra～",
+  "base_artist": "SUKIMASWITCH",
+  "createdAt": "2026-03-09T15:49:03.861517Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ボクノート",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/01_ボクノート_Sukimaswitch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ボクノート",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/02_ボクノート_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ボクノート",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/03_ボクノート_スキマスイッチ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ボクノート",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/04_ボクノート_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ボクノート - 10th Anniversary Arena Tour 2013 \"POPMAN'S WORLD\"",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/05_ボクノート_-_10th_Anniversary_Arena_Tour_2013__POPMAN'S_WORLD_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ボクノート",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/06_ボクノート_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ボクノート",
+      "artist": "Sukima Switch",
+      "has_synced": false,
+      "path": "select/07_ボクノート_Sukima_Switch.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ボクノート",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/08_ボクノート_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ボクノート",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/09_ボクノート_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ボクノート (2018 Remaster)",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/10_ボクノート_(2018_Remaster)_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ボクノート - Boku Note",
+      "artist": "SUKIMASWITCH",
+      "has_synced": false,
+      "path": "select/11_ボクノート_-_Boku_Note_SUKIMASWITCH.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ボクノート (Live at さいたまスーパーアリーナ / 2013)",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/12_ボクノート_(Live_at_さいたまスーパーアリーナ___2013)_Sukimaswitch.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボクノート",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_01_ボクノート_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ボクノート [Rearranged]",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_02_ボクノート_[Rearranged]_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ボクノート",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_03_ボクノート_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ボクノート",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_04_ボクノート_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ボクノート",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_05_ボクノート_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ボクノート",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_06_ボクノート_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ボクノート",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_07_ボクノート_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ボクノート",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_08_ボクノート_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ボクノート",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_09_ボクノート_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ボクノート",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_10_ボクノート_スキマスイッチ.txt"
+    }
+  ]
+}
